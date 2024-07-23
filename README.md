@@ -1,5 +1,9 @@
 # ChitChat
-ChitChat is a chat application that allows users to create rooms and exchange messages within them. The app offers fast and secure communication with a modern design and user-friendly interface.
+ChitChat, kullanıcıların kolayca sohbet odaları oluşturup bu odalarda mesajlaşmalarını sağlayan bir chat uygulamasıdır. Uygulama, modern tasarımı ve kullanıcı dostu arayüzü ile hızlı ve güvenli iletişim sunar.
+
+
+
+<video controls src="video/ChitChat.mp4" title="ChitChat"></video>
 
 
 Gereksinimler
