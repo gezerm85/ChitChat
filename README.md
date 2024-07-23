@@ -51,7 +51,7 @@ Kullanılan Teknolojiler ve Kütüphaneler
 	•	Async Storage: Yerel veri depolama.
 	•	Flash Message: Bildirim mesajları.
 	•	Reanimated: Animasyonlar.
-	•	Modal: Modallar için geliştirilmiş bileşenler.
+	•	React Native Modal: Modallar için geliştirilmiş bileşenler.
 	•	Image Picker: Resim seçme işlevselliği.
 
 
