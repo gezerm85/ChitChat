@@ -3,7 +3,9 @@ ChitChat, kullanıcıların kolayca sohbet odaları oluşturup bu odalarda mesaj
 
 
 
-<video controls src="video/ChitChat.mp4" title="ChitChat"></video>
+### App Video
+
+https://github.com/user-attachments/assets/039b7a7d-a9b2-41b3-9bc8-e875f34190d4
 
 
 Gereksinimler
