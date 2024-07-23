@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "ChitChat",
+    "slug": "ChitChat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/ChitChat_icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ]
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.chitchat"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/ChitChat_icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.example.chitchat"
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bc5ef537-de48-4f9f-b792-64c0441f00f9"
+      }
+    }
+  }
+}
