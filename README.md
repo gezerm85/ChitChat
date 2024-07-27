@@ -26,8 +26,7 @@ Depoyu klonlayın:
  Bağımlılıkları yükleyin:
 
  	•	npm install
-		# veya
-	•	npm install
+
 
 
  
