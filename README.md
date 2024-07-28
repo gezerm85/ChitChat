@@ -25,7 +25,9 @@ Depoyu klonlayın:
  
  Bağımlılıkları yükleyin:
 
- 	•	npm install
+	• npm install
+   	    # veya
+	• yarn install
 
 
 
