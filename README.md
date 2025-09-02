@@ -249,12 +249,12 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👨‍💻 Geliştirici
 
-**Gezerm Celebi**
-- 📧 E-posta: [gezermcelebi@gmail.com](mailto:gezermcelebi@gmail.com)
-- 💼 LinkedIn: [Gezerm Celebi](https://linkedin.com/in/gezermcelebi)
-- 🐙 GitHub: [@gezerm85](https://github.com/gezerm85)
 
----
+**Proje Hakkında Sorularınız İçin:**
+
+- 📧 **E-posta:** [gezermcelebi@gmail.com](mailto:gezermcelebi@gmail.com)
+- 💼 **LinkedIn:** [Mehmet Çelebi Gezer](https://www.linkedin.com/in/mehmet-%C3%A7elebi-gezer-605a38217/)
+- 🐙 **GitHub:** [@gezerm85](https://github.com/gezerm85)
 
 ## 🙏 Teşekkürler
 
