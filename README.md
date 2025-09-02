@@ -269,6 +269,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
 
-Made with ❤️ by [Gezerm Celebi](https://github.com/gezerm85)
+Made with ❤️ by [Mehmet Çelebi Gezer](https://github.com/gezerm85)
 
 </div>
